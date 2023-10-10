@@ -11,7 +11,7 @@
 
 - ⚡  Dato curioso: - La comida y la música🎵 son las razones para vivir.
 
-- 📫Emial **adan.united@gmail.com**
+- 📫Email **adan.united@gmail.com**
 
 
 
