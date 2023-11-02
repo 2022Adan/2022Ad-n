@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Adam Gomez</h1>
+<h1 align="center">Hola 👋, soy Adan Gomez</h1>
 <h3 align="center">Estudiante de la Tecnicatura universitaria en programación, UTNSR🌟.</h3>
 
 <br>
